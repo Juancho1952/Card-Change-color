@@ -18,7 +18,7 @@ const QuotesBox = ({ RandomQuote, RandomColor, getrandomAll}) => {
                     <rect x="0" y="0" fill='none'></rect>
                 </svg>
                 </button>
-                <a href="https://app.netlify.com/teams/juancho1952/overview?_ga=2.156559931.1604556809.1662682536-1631014398.1662385992" target="_blank"> <i className='bx bxl-netlify bx-spin bx-rotate-270' ></i> </a>
+                <a href="https://github.com/Juancho1952/Card-Change-color" target="_blank"> <i className='bx bxl-github bx-spin' ></i> </a>
             </article>
         </main>
     )

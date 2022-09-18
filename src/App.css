@@ -61,7 +61,7 @@
 button:hover rect{
     stroke-dashoffset: 0;
 }
-.bx-rotate-270{
+.bxl-github{
     position: absolute;
     bottom: 0;
     font-size: 4rem;
