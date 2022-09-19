@@ -7,7 +7,7 @@
     --white: #fff;
 }
 .Container-Card{
-    width: 100vw;
+    width: 100%;
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -15,7 +15,7 @@
 }
 .Card{
     background-color: var(--white);
-    margin: 2rem;
+    margin: 1rem;
     width: 350px;
     aspect-ratio: 2;
     padding: 1rem;
@@ -63,9 +63,9 @@ button:hover rect{
 }
 .bxl-github{
     position: absolute;
-    bottom: 0;
+    bottom: 0.4cm;
     font-size: 4rem;
-    right: 0;
+    right: 0.4cm;
 }
 .loader-tittle{
     position: block;
